@@ -8,7 +8,8 @@
   <img align='center' alt='R' src = 'https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' />
   <img align='center' alt='MySQL' src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
   <img align='center' alt='Excel' src = 'https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white' />
-  
+</div>
+
 ### Olá!, Eu sou o Pedro Victor! 
 
 Me dedico a aprimorar minhas soft skills, reconhecendo a importância de se comunicar de forma eficaz, trabalhar em equipe e ter a capacidade de se adaptar a ambientes dinâmicos.
